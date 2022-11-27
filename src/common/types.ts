@@ -8,5 +8,3 @@ export interface Event {
     eventName: string;
     data: string;
 }
-
-export default CoreJSInterface
